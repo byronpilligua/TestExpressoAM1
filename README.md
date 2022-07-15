@@ -1,2 +1,0 @@
-# TestExpressoAM1
-PracticaExpresso
